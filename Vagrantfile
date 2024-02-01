@@ -1,5 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+
 Vagrant.configure("2") do |config|
   # Global options
   BOX_NAME = "ubuntu/jammy64"
